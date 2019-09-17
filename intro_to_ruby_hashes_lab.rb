@@ -13,7 +13,7 @@ def pioneer
 end
 
 def id_generator
- id_generator = {key: 1}
+ id_generator = {id: 1}
  id_generator
 end
 
